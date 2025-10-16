@@ -9,7 +9,7 @@ Ejecute el script que crea la base de datos en MySQL. Se encuentra en esta carpe
 
 • Abra esta carpeta en vs code.
 • Abre la terminal desde vs code.
-• Ahora ejecute el comando i el cual descargara todas las dependencias necesarias.  
+• Ahora ejecute el comando npm i el cual descargara todas las dependencias necesarias.  
 • Ahora ejecute el comando npm run dev el cual iniciará el servidor.  
 
 ## Correr la aplicación android.  
